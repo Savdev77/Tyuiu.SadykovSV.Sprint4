@@ -1,4 +1,5 @@
 ﻿using Tyuiu.SadykovSV.Sprint4.Task0.V4.Lib;
+
 Console.Title = "Спринт #4 | Выполнил: Садыков С.В. | ПИНб-26-1";
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* Спринт #4                                                               *");
