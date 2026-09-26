@@ -15,8 +15,13 @@
     <Project Path="Tyuiu.SadykovSV.Sprint4.Task2.V21/Tyuiu.SadykovSV.Sprint4.Task2.V21.csproj" Id="ec120a0f-760d-4201-819c-cd6a090b2d0b" />
   </Folder>
   <Folder Name="/Task3/">
-    <Project Path="Tyuiu.SadykovSV.Sprint4.Task3.V5.LIb/Tyuiu.SadykovSV.Sprint4.Task3.V5.LIb.csproj" Id="a33a6d3f-ef98-4e59-83c2-9849fb1291f0" DisplayName="Tyuiu.SadykovSV.Sprint4.Task3.V5.Lib" />
+    <Project Path="Tyuiu.SadykovSV.Sprint4.Task3.V5.Lib/Tyuiu.SadykovSV.Sprint4.Task3.V5.Lib.csproj" Id="a33a6d3f-ef98-4e59-83c2-9849fb1291f0" />
     <Project Path="Tyuiu.SadykovSV.Sprint4.Task3.V5.Test/Tyuiu.SadykovSV.Sprint4.Task3.V5.Test.csproj" Id="8dc50e89-5596-4186-9bc6-b7134ee172f0" />
     <Project Path="Tyuiu.SadykovSV.Sprint4.Task3.V5/Tyuiu.SadykovSV.Sprint4.Task3.V5.csproj" Id="1acff7b6-ac26-4251-9182-f1d285617c6f" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.SadykovSV.Sprint4.Task4.V14.Lib/Tyuiu.SadykovSV.Sprint4.Task4.V14.Lib.csproj" Id="76d08ee9-a379-473f-828e-d25747740dd3" />
+    <Project Path="Tyuiu.SadykovSV.Sprint4.Task4.V14.Test/Tyuiu.SadykovSV.Sprint4.Task4.V14.Test.csproj" Id="232c4a10-4a17-4e67-9c74-34fe01fed134" />
+    <Project Path="Tyuiu.SadykovSV.Sprint4.Task4.V14/Tyuiu.SadykovSV.Sprint4.Task4.V14.csproj" Id="fd7446ad-d707-4323-ba69-b98ffa5fc116" />
   </Folder>
 </Solution>
